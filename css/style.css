@@ -1,0 +1,53 @@
+body {
+  background-image: url(http://www.baltana.com/files/wallpapers-5/Black-And-White-Background-HQ-Desktop-Wallpaper-16257.jpg);
+}
+
+.space-div {
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  font-size: 60px;
+}
+
+.size-image {
+  max-width: 100%;
+}
+
+.gray-background {
+  background-color: #e5e5e5;
+}
+
+.picture-frame {
+  max-width: 743px;
+}
+
+.well-white {
+  background-color: rgb(255, 255, 255);
+}
+
+ul {
+  list-style-position:inside;
+  font-size: medium;
+  line-height: 150%;
+}
+
+p {
+  text-indent: 50px;
+  font-size: medium;
+  line-height: 150%;
+}
+
+h4 {
+  line-height: 150%;
+}
+
+h5 {
+  margin-left: 150px;
+  margin-right: 100px;
+  line-height: 150%;
+}
+
+.top-padding {
+  padding-top: 20px;
+}
